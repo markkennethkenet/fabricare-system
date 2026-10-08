@@ -1,0 +1,184 @@
+﻿
+OUTLINE DEFENSE MINUTES
+Title : FABRICCARE AI: A MOBILE-BASED FABRIC HEALTH ASSESSMENT AND CARE RECOMMENDATION SYSTEM USING IMAGE PROCESSING 
+Program: BSIT				Date of Defense: JULY 28, 2026
+Members: CARL KHIAN AGUIRRE, ROXANE CABANIG, MARK KENNETH TORRES
+Panelists
+Page No.
+Comments/Suggestions/Recommendations
+Action/s Taken
+EDUARDO CATOC JR.
+Panel Chairman
+
+Signature:
+Date Signed:
+
+6
+Agreed with the recommendation that the system should be capable of identifying mixed fabric types, not only single-fabric materials.
+Enhance the AI model to support the identification of mixed fabric types. 
+
+
+
+56
+Emphasized that the AI model requires a larger and more comprehensive training dataset for fabric classification.
+
+Expand the training dataset to improve classification accuracy and robustness. 
+
+
+
+8
+Recommended including related studies in the Review of Related Literature (RRL) explaining how the lifespan of different fabric types can be determined.
+
+Include literature supporting fabric lifespan estimation and identify factors affecting garment longevity. 
+
+
+
+     8
+Suggested identifying and discussing the factors influencing fabric lifespan, such as proper maintenance and care practices.
+Add these factors in the knowledge base and discuss them in the RRL and methodology. 
+
+
+
+
+6
+Recommended that the system should recognize whether a garment is newly purchased so that it can provide appropriate initial care recommendations.
+
+
+Added an option for users to indicate whether the garment is new or previously used, allowing the system to provide suitable initial care recommendations. This recommendation was documented as a future enhancement due to project scope limitations. 
+
+
+
+6
+Advised incorporating functionality to identify different types of fabric stains.
+
+Develop functionality for stain classification 
+
+
+56
+Highlighted the importance of extensive AI training to improve model reliability and performance
+Expanded the AI training dataset by collecting additional fabric images under different lighting conditions, viewing angles, and fabric conditions. The AI model was retrained and evaluated to improve its reliability and overall performance. 
+
+
+
+6
+
+
+Suggested incorporating multiple image capture and considering the distance between the camera and the fabric during image acquisition.
+
+Support multiple image acquisition (front, back, and additional perspectives) during fabric analysis. 
+
+
+
+
+6
+Recommended defining the scope by specifying supported garment categories (e.g., shirts, blouses, shorts, and other commonly used clothing in the Philippines) under the project's limitations.
+Define the project's scope by specifying the supported garment categories. 
+
+
+
+
+
+
+
+
+6
+Suggested integrating AI-based recommendations that provide users with appropriate actions depending on the detected fabric condition, including:
+stain treatment recommendations;
+maintenance suggestions for worn or aged fabrics;
+methods to prolong fabric lifespan;
+expected condition after continuous use; and
+proper fabric care procedures.
+Develop functionality for:
+fabric age recognition;
+stain classification;
+damage detection; and
+AI-powered care recommendations.
+
+
+2
+Recommended revising the Background of the Study to place greater emphasis on fabric damage and fabric condition assessment.
+Revise the Background of the Study to emphasize fabric damage assessment and condition monitoring. 
+KEENLY PASION
+ Panel Member
+
+Signature:
+Date Signed:
+
+
+6
+
+Recommended capturing multiple images (e.g., front and back views) for damage detection and care recommendation.
+Support multiple image acquisition (front, back, and additional perspectives) during fabric analysis. 
+
+
+6
+Noted that a single image may be sufficient for identifying the fabric type, but multiple images are necessary for accurate damage assessment and personalized care recommendations.
+Support multiple image acquisition (front, back, and additional perspectives) during fabric analysis. 
+
+
+5
+Agreed that supporting multiple images would also help business owners and customers by providing evidence of existing fabric damage.
+Support multiple image acquisition (front, back, and additional perspectives) during fabric analysis. 
+
+
+6
+Emphasized that the application should support multiple image inputs, since relying on only one image may omit visible damage on other parts of the garment.
+
+Support multiple image acquisition (front, back, and additional perspectives) during fabric analysis. 
+
+
+
+8
+Suggested preparing a clear explanation during the pre-deployment presentation regarding fabric lifespan predictions (e.g., what a garment is expected to look like after six months and which factors influence its condition over time).
+
+Prepared a detailed explanation of the garment lifespan estimation module, including the factors considered in predicting fabric lifespan, such as the identified fabric type, visible fabric condition, frequency of use, and recommended care practices. The explanation was incorporated into the system documentation and presentation materials. 
+
+
+8
+Recommended implementing a knowledge-based system integrated with AI for generating care recommendations.
+
+Integrated a knowledge-based recommendation module with the AI model to generate personalized garment care recommendations based on the identified fabric type and detected fabric condition. 
+
+
+56
+Suggested evaluating the AI model using multiple performance metrics, rather than relying solely on accuracy, to better assess overall model performance.
+
+Evaluate the AI model using multiple performance metrics in addition to accuracy. 
+
+
+5
+Recommended using only one classification algorithm throughout the study to maintain consistency in implementation and evaluation.
+
+Maintain consistency by utilizing a single classification algorithm throughout the implementation and evaluation phases. 
+GERTRUDE GRACE TAMPUS
+Panel Member
+
+Signature:
+Date Signed:
+
+
+6
+Agreed that the application should support multiple image capture to improve the detection of fabric damage.
+
+Support multiple image acquisition (front, back, and additional perspectives) during fabric analysis. 
+
+
+5
+
+Explained that comprehensive damage detection would significantly benefit business owners
+Developed a comprehensive fabric damage assessment module to assist business owners in evaluating garment condition and supporting appropriate care and quality assessment. 
+
+
+6
+
+Recommended ensuring that the system provides comprehensive and reliable overall results.
+
+Conducted comprehensive system testing, AI model evaluation, and validation to ensure that the application provides comprehensive, accurate, and reliable results. 
+
+
+JERSON M. VIAGEDOR
+Adviser
+Date Signed: 
+
+
+
